@@ -27,6 +27,11 @@ For love and support:
 ![image](https://github.com/user-attachments/assets/be5f792e-0ca3-41bc-bd75-fa5865dff022)
 
 
+# Credits
+
+- Esppiral for testing!
+
+
 
 
 
